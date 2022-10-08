@@ -5,10 +5,10 @@
         <div class="colu" id="_musicAll">
             <div style="color: white"><a style="color: white" href="https://howlerjs.com/">Howl音乐引擎:</a></div>
             <div>
-                <el-button @click="run">Howl-run</el-button>
+                <button @click="run">Howl-run</button>
             </div>
             <div>
-                <el-button @click="pause">pause</el-button>
+                <button @click="pause">pause</button>
             </div>
         </div>
 
